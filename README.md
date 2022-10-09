@@ -112,7 +112,6 @@ Build & Run project so it's usable on a browser.
 | -------------- | ------------------------------- |
 | Muhammad Ahmed | mm.ahmed@mail.utoronto.ca       |
 | Maeesha Biswas | maeesha.biswas@mail.utoronto.ca |
-| Meherin Shamim | meherin.shamim@mail.utoronto.ca |
 | Tracy Sun      | tracy.sun@mail.utoronto.ca      |
 
 
