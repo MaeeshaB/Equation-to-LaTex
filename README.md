@@ -36,7 +36,7 @@
   <p align="center">
     Digital Image Recognition of Handwritten Mathematical Expressions
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ahmed22002/Equation-to-LaTex/tree/main/docs"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
