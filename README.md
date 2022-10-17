@@ -123,9 +123,9 @@ Build & Run project so it's usable on a browser.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - mm.ahmed@mail.utoronto.ca
+Muhammad Ahmed - mm.ahmed@mail.utoronto.ca
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/ahmed22002/Equation-to-LaTex)
+Project Link: [https://github.com/ahmed22002/Equation-to-LaTex](https://github.com/ahmed22002/Equation-to-LaTex)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
