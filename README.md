@@ -76,6 +76,8 @@ The main goal of our project is to create a model that can take handwritten math
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+https://user-images.githubusercontent.com/97562093/198924400-50d4a8c1-1765-4384-b747-b891f4c333b0.mp4
+
 
 ### Built With
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" style="height: 50px;"/>
